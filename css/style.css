@@ -3017,3 +3017,14 @@ ol {
 .dsfootermenu a {
 	color: #fff;
 }
+@media(max-width: 900px) {
+	.dslogogo {
+		width: 250px;
+	}
+	.hero__item .hero__text {
+		padding-top: 144px;
+	}
+	.hero__img img {
+		padding-top: 2rem;
+	}
+}
