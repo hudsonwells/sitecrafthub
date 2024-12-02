@@ -3019,7 +3019,7 @@ ol {
 }
 @media(max-width: 900px) {
 	.dslogogo {
-		width: 200px;
+		width: 200px !important;
 	}
 	.hero__item .hero__text {
 		padding-top: 144px;
